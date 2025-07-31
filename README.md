@@ -4,7 +4,7 @@
 <p align="center" style="font-size: 16px;">
  The Wellness Session Platform is a full-stack application built for the Arvyax Full Stack Internship Assignment. It enables users to register, log in, create, save, and view wellness sessions (e.g., yoga, meditation) with auto-save functionality and a responsive UI.
 </p>
-<li><a href="https://agrifarmio.netlify.app/">LIVE DEMO</a></li>
+<li><a href="#">LIVE DEMO</a></li>
 
 <hr>
 
